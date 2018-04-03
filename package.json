@@ -1,0 +1,20 @@
+{
+  "name": "livemsg",
+  "version": "1.0.0",
+  "description": "세미나 장소에서 발표자에게 실시간으로 질문을 할 수 있습니다.",
+  "main": "index.js",
+  "scripts": {
+    "server:dev": "cd client && npm run dev & cd server && node serv.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withinnovation/livemsg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/withinnovation/livemsg/issues"
+  },
+  "homepage": "https://github.com/withinnovation/livemsg#readme"
+}
